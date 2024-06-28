@@ -1,2 +1,2 @@
 # Splitroom
-Splitwise for web without auth
+Splitwise API nm
